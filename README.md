@@ -1,5 +1,6 @@
 # False-Nails-Ecommerce
-This is Ecommerce selling false nails
+This is Ecommerce selling false nails (All Nail design images are self-designed by my friends and me. Please do not use them for any commercial use)
+App's entire functions are not implementing yet, continuously updating. 
 
 # Xin's Beauty Nail Website
 
